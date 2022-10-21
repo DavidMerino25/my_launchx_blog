@@ -13,7 +13,7 @@
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://davidmerino25.github.io/my_launchx_blog/posts/tareabackend2/</guid>
-      <description>#Uso y significado de 5 palabras reservadas en Java ###boolean Define una variable booleana para los valores &amp;ldquo;true&amp;rdquo; o &amp;ldquo;false&amp;rdquo; solamente. Por defecto, el valor del tipo primitivo booleano es falso. Esta palabra clave también se usa para declarar que un método devuelve un valor del tipo primitivo booleano. Ejemplo:
+      <description>Uso y significado de 5 palabras reservadas en Java boolean Define una variable booleana para los valores &amp;ldquo;true&amp;rdquo; o &amp;ldquo;false&amp;rdquo; solamente. Por defecto, el valor del tipo primitivo booleano es falso. Esta palabra clave también se usa para declarar que un método devuelve un valor del tipo primitivo booleano. Ejemplo:
 java boolean bandera = true;</description>
     </item>
     
